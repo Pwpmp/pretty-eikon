@@ -1,0 +1,6 @@
+README.md
+setup.py
+pretty_eikon.egg-info/PKG-INFO
+pretty_eikon.egg-info/SOURCES.txt
+pretty_eikon.egg-info/dependency_links.txt
+pretty_eikon.egg-info/top_level.txt
